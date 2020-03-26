@@ -1,0 +1,8 @@
+<resources>
+    <string name="appName">ResetPassword</string>
+    <string name="txtTitleReset">Reset Password</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnBack">Back</string>
+    <string name="btnNext">Next</string>
+
+</resources>
